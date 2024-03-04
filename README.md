@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @BradTheeStallion
+- 👀 I’m interested in backend development, cyber security, Python, bots, APIs.
+- 🌱 I’m currently learning Software Development @ Keyin College
+- 💞️ I’m looking to collaborate on: TBD
+- 📫 How to reach me: https://www.linkedin.com/in/bradley-ayers/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a nature nut :)
